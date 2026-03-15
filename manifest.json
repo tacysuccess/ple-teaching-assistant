@@ -1,0 +1,7 @@
+{
+  "name": "ple-teaching-assistant",
+  "description": "AI assistant for teaching Portuguese as a Foreign Language for Spanish-speaking students.",
+  "version": "1.0",
+  "author": "Taciany",
+  "entry": "skill.md"
+}
